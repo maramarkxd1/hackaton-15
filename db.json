@@ -1,0 +1,103 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Pablo Escobar",
+      "apodo": "El Patron",
+      "edad": 38,
+      "phone": "999-999-999",
+      "email": "pablo@gmail.com",
+      "Frase": "A mí me tienen que matar de bala y no de miedo... de 30 balazos en el semáforo, como tiene que morir un mafioso."
+    },
+    {
+      "id": 2,
+      "nombre": "Tony Stark",
+      "apodo": "iro-man",
+      "edad": 35,
+      "phone": "999-999-998",
+      "email": "tony@gmail.com",
+      "Frase": "Puedes quitarme mi casa, todos mis trucos y trajes, pero hay una cosa que jamás podrás quitarme: Yo soy Iron Man."
+    },
+    {
+      "id": 3,
+      "nombre": "Emmanuel Gazmey",
+      "edad": 25,
+      "apodo": "Anuel AA",
+      "phone": "999-999-997",
+      "email": "emmanuel@gmail.com",
+      "Frase": "Brrrrrr."
+    },
+    {
+      "id": 4,
+      "nombre": "Luis Miguel Gallego Basteri",
+      "edad": 42,
+      "apodo": "El Sol de Mexico",
+      "phone": "999-999-996",
+      "email": "luis@gmail.com",
+      "Frase": "Para llegar a lo más alto hay que hacer cosas y no buscar excusas."
+    },
+    {
+      "id": 5,
+      "nombre": "Abel Makkonen",
+      "edad": 28,
+      "apodo": "The Weeknd",
+      "phone": "999-999-995",
+      "email": "abel@gmail.com",
+      "Frase": "Para un soñador, las noches son la única hora del día."
+    },
+    {
+      "id": 6,
+      "nombre": "Jesus Valle",
+      "edad": 23,
+      "apodo": "Faraon Love Shady",
+      "phone": "999-999-994",
+      "email": "jesus@gmail.com",
+      "Frase": "RAAAAAA."
+    },
+    {
+      "id": 7,
+      "nombre": "Bruce Wayne",
+      "edad": 33,
+      "apodo": "Batman",
+      "phone": "999-999-993",
+      "email": "bruce@gmail.com",
+      "Frase": "Si consigues ser algo más que un hombre, si te entregas a un ideal, si nadie puede detenerte... te conviertes en algo muy diferente: en una leyenda."
+    },
+    {
+      "id": 8,
+      "nombre": "Bruce Banner",
+      "edad": 36,
+      "apodo": "Hulk",
+      "phone": "999-999-992",
+      "email": "bruceB@gmail.com",
+      "Frase": "A veces creo que el único motivo por el que me convertí en Hulk fue para salvar al mundo de Banner."
+    },
+    {
+      "id": 9,
+      "nombre": "Steve Rogers",
+      "edad": "Undefined",
+      "apodo": "Capitan America",
+      "phone": "999-999-991",
+      "email": "steve@gmail.com",
+      "Frase": "Un soldado, incluso si es un supersoldado, es tan fuerte como sus ideales y como sus sueños."
+    },
+    {
+      "id": 10,
+      "nombre": "Scott Lang",
+      "edad": 30,
+      "apodo": "Ant-man",
+      "phone": "999-999-990",
+      "email": "scott@gmail.com",
+      "Frase": "Eres diferente, y yo creo que cualquiera se merece una oportunidad de redención."
+    },
+    {
+      "nombre": "111111",
+      "apodo": "11111111",
+      "edad": "111111111",
+      "phone": "11111111",
+      "email": "111111111",
+      "Frase": "11111111111",
+      "id": 11
+    }
+  ]
+}
